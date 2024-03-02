@@ -1,0 +1,24 @@
+.trackerForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.select {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.input {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.addBtn {
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid rgb(212, 199, 13);
+    padding: 5px;
+}

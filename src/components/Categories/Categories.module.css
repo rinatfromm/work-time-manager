@@ -1,0 +1,18 @@
+.categoriesForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.input {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.categoriesBtn {
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid rgb(212, 199, 13);
+    padding: 5px;
+}

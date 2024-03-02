@@ -1,0 +1,73 @@
+.report {
+    padding-bottom: 100px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    text-align: left;
+}
+
+
+
+
+.deleteBtn {
+    border: none;
+    background: none;
+    color: red;
+    cursor: pointer;
+}
+
+.btnBox {
+    text-align: center;
+}
+
+.folder {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.editBtn {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.saveBtn {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.reportImg {
+    width: 200px;
+    height: 200px;
+    margin: 0px 0px 50px 150px;
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.navigation button{
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid rgb(212, 199, 13);
+    padding: 5px;
+}
+.hours{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
